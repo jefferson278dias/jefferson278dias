@@ -2,7 +2,7 @@
 # 👨‍💻 QA Explorer
 
 <!-- Ícones de Contato -->
-[![LinkedIn]https://www.linkedin.com/in/jefferson-da-silva-dias-572a6a21a/
+[![LinkedIn](https://www.linkedin.com/in/jefferson-da-silva-dias-572a6a21a/)
 
 
 ## 🚀 Sobre Mim
